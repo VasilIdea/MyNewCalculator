@@ -1,0 +1,2 @@
+# MyNewCalculator
+Product includes exceptions
